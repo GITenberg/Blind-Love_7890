@@ -1,0 +1,61 @@
+_repo: Blind-Love_7890
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: "Blind Love was an unfinished novel by Wilkie Collins, which he left\
+  \ behind on his death in 1889. It was completed by historian and novelist Sir Walter\
+  \ Besant.\nCollins's novel had already begun serialization in The Illustrated London\
+  \ News, even though the author had not yet completed it. (It ran from 6 July to\
+  \ 28 December of that year.) When it was published in book form on 1890, the volume\
+  \ included Besant's preface explaining the circumstances of the collaboration.\n\
+  Collins had started writing the novel in 1887, when newspapers were full of stories\
+  \ about Fenian violence in the wake of the previous year's defeat of the First Irish\
+  \ Home Rule Bill. Collins frequented Ye Olde Cheshire Cheese off London's Fleet\
+  \ Street and borrowed some traits for his male protagonist from John O'Connor Power\
+  \ who was also well known in the convivial tavern. Collins links the Irish Question\
+  \ to the Woman Question. The novel recounts the story of Lord Harry Norland, a member\
+  \ of a squad of political assassins; the book's heroine is Iris Henley, a bold and\
+  \ nonconformist Englishwoman who falls in love with the Irish Norland despite his\
+  \ criminal activities (the \"blind love\" of the title). The title was originally\
+  \ to have been Lord Harry, the colloquial name for the devil.\n\n\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7890'
+  wikidata: Q4926580
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Fiction'
+- !lcsh 'Secret societies -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Suspense fiction'
+- !lcsh 'Conspiracies -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PR'
+- GITenberg
+title: Blind Love
+url: http://www.gutenberg.org/ebooks/7890
+wikipedia:
+- https://en.wikipedia.org/wiki/Blind_Love_(novel)
